@@ -1,0 +1,16 @@
+{
+ "name": "Others",
+ "description": "其他任务合集",
+ "task": [
+    "0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",   
+    "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_crazy_joy_coin.js, tag=CrazyJoy挂机, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_crazy_joy.png, enabled=true",
+    "5 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png, enabled=true",
+    "5 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
+    "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.png, enabled=true",
+    "30 */6 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/flw.js, tag=返利网, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/flw.png, enabled=true",
+    "30 */3 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.png, enabled=true",
+    "0 5-23/2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青签到&转盘宝箱, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+    "15 */6 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+    "20 7 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true"
+ ]
+}
