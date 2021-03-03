@@ -11,6 +11,7 @@
     "30 */3 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.png, enabled=true",
     "0 5-23/2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青签到&转盘宝箱, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
     "15 */6 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
-    "20 7 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true"
+    "20 7 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚&浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+    "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true"
  ]
 }
