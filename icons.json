@@ -1,0 +1,10 @@
+{
+    "name": "Icons",
+    "description": "Icons by GAOYAOKU.",
+    "icons": [
+        {
+            "name": "闲鱼",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Resource/main/icons/xianyu.png"
+        }
+    ]
+}
