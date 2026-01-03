@@ -1,9 +1,9 @@
 # @ddgksf2013 
-# https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeiboAds.conf
+# https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/WeiboAds.conf
+# 2025/09/16
 
 hostname = api.weibo.*, *.api.weibo.*, mapi.weibo.*, *.uve.weibo.com, new.vip.weibo.cn, boot.biz.weibo.com
 
-# ======= 微博国内版 ======= #
 # > 微博_详情页及评论区@ddgksf2013
 ^https?:\/\/api\.weibo\.cn\/\d\/statuses\/container_detail url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_json.js
 # > 微博_首页信息流可能感兴趣推广@ddgksf2013

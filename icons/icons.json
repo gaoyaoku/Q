@@ -1,0 +1,62 @@
+{
+    "name": "Icons",
+    "description": "Icons by GAOYAOKU.",
+    "icons": [
+        {
+            "name": "123云盘",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/123yunpan.png"
+        },
+        {
+            "name": "12306",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/12306.png"
+        },
+        {
+            "name": "百度网盘",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/baiduwangpan.png"
+        },
+        {
+            "name": "滴滴",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/didi.png"
+        },
+        {
+            "name": "酷安",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/kuan.png"
+        },
+        {
+            "name": "联通",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/liantong.png"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/reddit.png"
+        },
+        {
+            "name": "什么值得买",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/shenmezhidemai.png"
+        },
+        {
+            "name": "网易邮箱",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/wangyiyouxiang.png"
+        },
+        {
+            "name": "网易云音乐",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/wangyiyunyinyue.png"
+        },
+        {
+            "name": "微博",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/weibo.png"
+        },
+        {
+            "name": "闲鱼",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/xianyu.png"
+        },
+        {
+            "name": "小红书",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/xiaohongshu.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/youtube.png"
+        }
+    ]
+}
