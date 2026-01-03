@@ -3,8 +3,20 @@
     "description": "Icons by GAOYAOKU.",
     "icons": [
         {
+            "name": "Reddit",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/reddit.png"
+        },
+        {
+            "name": "微博",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/weibo.png"
+        },
+        {
             "name": "闲鱼",
-            "url": "https://raw.githubusercontent.com/gaoyaoku/Resource/main/icons/xianyu.png"
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/xianyu.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/gaoyaoku/Q/main/icons/youtube.png"
         }
     ]
 }
